@@ -1,1 +1,1 @@
-# renovate-python-poetry
+# renovate-python
